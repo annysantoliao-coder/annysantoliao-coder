@@ -11,8 +11,7 @@
 ---
 
 ## 👋 Sobre mim  
-🎓 Desenvolvedora Full Stack em formação  
-📍 Rio Branco - AC  
+🎓 Desenvolvedora Full Stack em formação   
 🚀 Em busca da minha primeira oportunidade na área de tecnologia  
 
 Sou apaixonada por tecnologia e estou no início da minha jornada como desenvolvedora.  

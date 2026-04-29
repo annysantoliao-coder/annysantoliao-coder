@@ -25,7 +25,6 @@ Tenho interesse em criar sites e aplicações web, unindo criatividade com lógi
 - HTML  
 - Lógica de programação  
 - Git e GitHub  
-- Conceitos de desenvolvimento web  
 
 ---
 

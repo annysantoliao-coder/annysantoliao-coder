@@ -29,4 +29,4 @@ Tenho interesse em criar sites e aplicações web, unindo criatividade com lógi
 
 ---
 
-## 🛠️ Tecnologias  
+

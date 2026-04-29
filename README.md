@@ -38,3 +38,5 @@ Tenho interesse em criar sites e aplicações web, unindo criatividade com lógi
 </p>
 
 ---
+
+<img src="https://github.com/annysantoliao-coder/annysantoliao-coder/blob/output/github-contribution-grid-snake.svg">
